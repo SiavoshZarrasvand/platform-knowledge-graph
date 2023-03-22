@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "http://192.168.130.165:5000",
+  "source": "http://localhost:5000",
   "elements": [
     {
       "type": "text",
